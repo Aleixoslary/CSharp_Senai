@@ -14,17 +14,17 @@ namespace exercicio6
             if (idade<3){
                 Console.WriteLine($"{idade} Você ainda não tem idade para jogar :(");
             } else if (idade>=3 && idade<6){
-                Console.WriteLine($"{idade} EARLY CHILDHOOD - O conteúdo destina-se a crianças pequenas.");
+                Console.WriteLine($"{idade} APTO PARA: EARLY CHILDHOOD");
             } else if (idade >=6 && idade <10){
-                Console.WriteLine($"{idade} EVERYONE - O conteúdo é geralmente adequado para todas as idades.");
+                Console.WriteLine($"{idade} APTO PARA: EARLY CHILDHOOD, EVERYONE");
             } else if (idade>=10 && idade <13){
-                Console.WriteLine($"{idade} EVERYONE 10+ - O conteúdo é geralmente adequado para todas as idades.");
+                Console.WriteLine($"{idade} APTO PARA: EARLY CHILDHOOD, EVERYONE, EVERYONE 10+");
             } else if (idade >=13 && idade <17){
-                Console.WriteLine($"{idade} TEEN - Conteúdo é geralmente adequado para idades 13 e acima.");
+                Console.WriteLine($"{idade} APTO PARA: EARLY CHILDHOOD, EVERYONE, EVERYONE 10+, TEEN");
             } else if (idade>=17) {
-                Console.WriteLine($"{idade} MATURE- Conteúdo é geralmente adequado para idades 17 e acima.");
+                Console.WriteLine($"{idade} APTO PARA: EARLY CHILDHOOD, EVERYONE, EVERYONE 10+, TEEN, MATURE.");
             } else if (idade>=18){
-                Console.WriteLine($"{idade} ADULTS ONLY- Conteúdo adequado somente para adultos maiores de 18 anos.");
+                Console.WriteLine($"{idade} APTO PARA TODAS AS CATEGORIAS: EARLY CHILDHOOD, EVERYONE, EVERYONE 10+, TEEN, MATURE, ADULTS ONLY");
             }
         }
     }
