@@ -9,3 +9,14 @@ C:\Users\fic\Desktop\Senai-backend-CSharp\Ex5\obj\Debug\netcoreapp2.2\Ex5.Assemb
 C:\Users\fic\Desktop\Senai-backend-CSharp\Ex5\obj\Debug\netcoreapp2.2\Ex5.AssemblyInfo.cs
 C:\Users\fic\Desktop\Senai-backend-CSharp\Ex5\obj\Debug\netcoreapp2.2\Ex5.dll
 C:\Users\fic\Desktop\Senai-backend-CSharp\Ex5\obj\Debug\netcoreapp2.2\Ex5.pdb
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\bin\Debug\netcoreapp2.2\Ex5.deps.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\bin\Debug\netcoreapp2.2\Ex5.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\bin\Debug\netcoreapp2.2\Ex5.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\bin\Debug\netcoreapp2.2\Ex5.dll
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\bin\Debug\netcoreapp2.2\Ex5.pdb
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\obj\Debug\netcoreapp2.2\Ex5.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\obj\Debug\netcoreapp2.2\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\obj\Debug\netcoreapp2.2\Ex5.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\obj\Debug\netcoreapp2.2\Ex5.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\obj\Debug\netcoreapp2.2\Ex5.dll
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula1\Ex5\obj\Debug\netcoreapp2.2\Ex5.pdb

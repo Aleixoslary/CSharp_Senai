@@ -23,12 +23,8 @@ namespace exercicio5
                 Console.Write($"{n2} é o maior");
              } else {
                  Console.Write($"{n3} é o maior");
-                 
              }
-
         }
-
-        
     }
 }
 
