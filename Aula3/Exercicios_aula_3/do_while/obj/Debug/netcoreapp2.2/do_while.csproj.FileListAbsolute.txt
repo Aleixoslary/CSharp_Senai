@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\obj\Debug\netcoreapp2.2\do_while.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\obj\Debug\netcoreapp2.2\do_while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\obj\Debug\netcoreapp2.2\do_while.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\obj\Debug\netcoreapp2.2\do_while.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\bin\Debug\netcoreapp2.2\do_while.deps.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\bin\Debug\netcoreapp2.2\do_while.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\bin\Debug\netcoreapp2.2\do_while.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\bin\Debug\netcoreapp2.2\do_while.dll
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\bin\Debug\netcoreapp2.2\do_while.pdb
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\obj\Debug\netcoreapp2.2\do_while.dll
+C:\Users\fic\Desktop\Senai-backend-CSharp\Exercicios_aula_3\do_while\obj\Debug\netcoreapp2.2\do_while.pdb
