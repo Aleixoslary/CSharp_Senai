@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\bin\Debug\netcoreapp2.2\integrada_atividade.deps.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\bin\Debug\netcoreapp2.2\integrada_atividade.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\bin\Debug\netcoreapp2.2\integrada_atividade.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\bin\Debug\netcoreapp2.2\integrada_atividade.dll
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\bin\Debug\netcoreapp2.2\integrada_atividade.pdb
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\obj\Debug\netcoreapp2.2\integrada_atividade.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\obj\Debug\netcoreapp2.2\integrada_atividade.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\obj\Debug\netcoreapp2.2\integrada_atividade.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\obj\Debug\netcoreapp2.2\integrada_atividade.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\obj\Debug\netcoreapp2.2\integrada_atividade.dll
+C:\Users\fic\Desktop\Senai-backend-CSharp\Atividade_organix\integrada_atividade\obj\Debug\netcoreapp2.2\integrada_atividade.pdb
