@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\obj\Debug\netcoreapp2.2\aula6_3(cnpj.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\obj\Debug\netcoreapp2.2\aula6_3(cnpj.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\obj\Debug\netcoreapp2.2\aula6_3(cnpj.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\obj\Debug\netcoreapp2.2\aula6_3(cnpj.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\bin\Debug\netcoreapp2.2\aula6_3(cnpj.deps.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\bin\Debug\netcoreapp2.2\aula6_3(cnpj.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\bin\Debug\netcoreapp2.2\aula6_3(cnpj.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\bin\Debug\netcoreapp2.2\aula6_3(cnpj.dll
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\bin\Debug\netcoreapp2.2\aula6_3(cnpj.pdb
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\obj\Debug\netcoreapp2.2\aula6_3(cnpj.dll
+C:\Users\fic\Desktop\Senai-backend-CSharp\aula6_3(cnpj\obj\Debug\netcoreapp2.2\aula6_3(cnpj.pdb
