@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0;
+}
+.cont {
+    display: flex;
+    width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+body {
+    font-family: arial;
+}
+
+header {
+    padding: 30px;
+    background-color: #08F510;
+}
+.banner {
+    background-image: url(../imagens/dan-gold-4_jhDO54BYg-unsplash.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 457px;
+}
+footer {
+    background-color: #E3EAE6;
+    padding: 50px;
+    text-align: center;
+}
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    padding: 5px;
+}
+.menu a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #707070;
+    padding: 5px;
+}
+
+.menu a:hover{
+    color: white;
+    background-color: #767373;
+    padding: 5px;
+}
+main {
+    margin-top:100px;
+}
+.cont p {
+    width: 300px;
+    height: 308px;
+    padding: 10px;
+    text-align: justify;
+    line-height: 1.5;
+}

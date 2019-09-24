@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Exercicios_aula_3\\while\\Exercicios_aula_3.csproj": {}
+    "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\aula3\\Exercicios_aula_3\\while\\Exercicios_aula_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Exercicios_aula_3\\while\\Exercicios_aula_3.csproj": {
+    "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\aula3\\Exercicios_aula_3\\while\\Exercicios_aula_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Exercicios_aula_3\\while\\Exercicios_aula_3.csproj",
+        "projectUniqueName": "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\aula3\\Exercicios_aula_3\\while\\Exercicios_aula_3.csproj",
         "projectName": "Exercicios_aula_3",
-        "projectPath": "C:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Exercicios_aula_3\\while\\Exercicios_aula_3.csproj",
+        "projectPath": "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\aula3\\Exercicios_aula_3\\while\\Exercicios_aula_3.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Exercicios_aula_3\\while\\obj\\",
+        "outputPath": "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\aula3\\Exercicios_aula_3\\while\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

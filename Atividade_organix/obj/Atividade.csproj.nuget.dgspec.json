@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\Senai-Backend-C3\\Aula 2\\Atividade\\Atividade.csproj": {}
+    "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Atividade_organix\\Atividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\Senai-Backend-C3\\Aula 2\\Atividade\\Atividade.csproj": {
+    "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Atividade_organix\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Senai-Backend-C3\\Aula 2\\Atividade\\Atividade.csproj",
+        "projectUniqueName": "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Atividade_organix\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\Users\\fic\\Desktop\\Senai-Backend-C3\\Aula 2\\Atividade\\Atividade.csproj",
+        "projectPath": "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Atividade_organix\\Atividade.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\Senai-Backend-C3\\Aula 2\\Atividade\\obj\\",
+        "outputPath": "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Atividade_organix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

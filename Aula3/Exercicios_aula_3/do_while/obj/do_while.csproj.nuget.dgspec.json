@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Exercicios_aula_3\\do_while\\do_while.csproj": {}
+    "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\aula3\\Exercicios_aula_3\\do_while\\do_while.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Exercicios_aula_3\\do_while\\do_while.csproj": {
+    "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\aula3\\Exercicios_aula_3\\do_while\\do_while.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Exercicios_aula_3\\do_while\\do_while.csproj",
+        "projectUniqueName": "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\aula3\\Exercicios_aula_3\\do_while\\do_while.csproj",
         "projectName": "do_while",
-        "projectPath": "C:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Exercicios_aula_3\\do_while\\do_while.csproj",
+        "projectPath": "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\aula3\\Exercicios_aula_3\\do_while\\do_while.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\Exercicios_aula_3\\do_while\\obj\\",
+        "outputPath": "c:\\Users\\fic\\Desktop\\Senai-backend-CSharp\\aula3\\Exercicios_aula_3\\do_while\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
