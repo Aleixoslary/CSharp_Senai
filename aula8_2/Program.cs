@@ -16,7 +16,7 @@ namespace aula8_2
                 Console.WriteLine("Digite um número: ");
                 numero=int.Parse(Console.ReadLine());
             }catch(Exception ex){
-                
+
                 //mostramos a exceção da regra
                 //erro gerado na aplicação;
                 Console.WriteLine("Ops... :( Deu merda.Erro" + ex);
