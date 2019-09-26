@@ -62,6 +62,8 @@ namespace aula6_2_cpf_
 
             if(digito_v2==cpfUsuario[10].ToString()){
                 resultado=true;
+            }else{
+                resultado=false;
             }
 
             return resultado;
