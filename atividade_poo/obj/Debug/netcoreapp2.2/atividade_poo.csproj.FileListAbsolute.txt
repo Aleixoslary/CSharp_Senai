@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\obj\Debug\netcoreapp2.2\atividade_poo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\obj\Debug\netcoreapp2.2\atividade_poo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\obj\Debug\netcoreapp2.2\atividade_poo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\obj\Debug\netcoreapp2.2\atividade_poo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\bin\Debug\netcoreapp2.2\atividade_poo.deps.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\bin\Debug\netcoreapp2.2\atividade_poo.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\bin\Debug\netcoreapp2.2\atividade_poo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\bin\Debug\netcoreapp2.2\atividade_poo.dll
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\bin\Debug\netcoreapp2.2\atividade_poo.pdb
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\obj\Debug\netcoreapp2.2\atividade_poo.dll
+C:\Users\fic\Desktop\Senai-backend-CSharp\atividade_poo\obj\Debug\netcoreapp2.2\atividade_poo.pdb
